@@ -1,5 +1,6 @@
 .headerContainer {
     display: flex;
+    background-color:#fbf3e9;
     justify-content: space-between;
     align-items: stretch;
   }
@@ -56,13 +57,13 @@ img {
 
 footer {
   display: block;
-  background-color:beige;
+  background-color:#f8f8e8;
 }
 
 .footerList {
   list-style-type: none;
   display: flex;
-  width: 50%;
+  width: auto;
   padding-left: 200px;
   padding-right: 200px;
   justify-content: space-evenly;
